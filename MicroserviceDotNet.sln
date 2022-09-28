@@ -19,7 +19,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sourcing", "Sourcing", "{F4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{2492D3EB-D9C8-45C6-8E57-36DDA24968CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esourcing.Products", "Esourcing.Products\Esourcing.Products.csproj", "{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Esourcing.Products", "Esourcing.Products\Esourcing.Products.csproj", "{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esourcing.Sourcing", "Esourcing.Sourcing\Esourcing.Sourcing.csproj", "{17706768-EA6D-49C4-B2B2-39EBB3AB2410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17706768-EA6D-49C4-B2B2-39EBB3AB2410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17706768-EA6D-49C4-B2B2-39EBB3AB2410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17706768-EA6D-49C4-B2B2-39EBB3AB2410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17706768-EA6D-49C4-B2B2-39EBB3AB2410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{F4C57500-E83C-420B-90F7-E2D93DFE4A9C} = {3BE90753-47F3-48E0-A14E-BCE5846F26B7}
 		{2492D3EB-D9C8-45C6-8E57-36DDA24968CA} = {C1177339-9079-42B0-80A0-106EF4759450}
 		{F5CD7EA5-F48B-4DC7-B433-1454B89E8C47} = {C19C350B-6AC6-40E5-82B6-B2C3FF3F09B4}
+		{17706768-EA6D-49C4-B2B2-39EBB3AB2410} = {F4C57500-E83C-420B-90F7-E2D93DFE4A9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {095AE40B-B262-49A4-AF95-889A5BE08B66}

@@ -68,5 +68,7 @@ namespace Esourcing.Products.Controllers
             return Ok(await _productRepository.Delete(id));
         }
         #endregion
+
+
     }
 }
