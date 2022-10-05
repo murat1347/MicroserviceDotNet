@@ -1,7 +1,7 @@
-﻿using ESourcing.Order.Consumers;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+using Esourcing.Order.Consumers;
 
 namespace ESourcing.Order.Extensions
 {
